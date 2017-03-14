@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 rghliwethglije
 rfgijewnhrglijengj
 rfgiqeurghqieuh
@@ -7,3 +8,5 @@ iyugtoytgoiutoiutiutiu8ti8u
 
 
 NOW I HAVE ADDED
+=======
+>>>>>>> parent of 7db4eb5... random data
